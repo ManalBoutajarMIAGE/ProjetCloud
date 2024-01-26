@@ -1,0 +1,2 @@
+Le projet visait à explorer les technologies modernes de développement d'applications, en mettant l'accent sur la conteneurisation avec Docker et l'orchestration avec Kubernetes. Le processus était découpé en plusieurs étapes, débutant par le développement d'un service local, ici nous avons repris un projet de location de voiture que nous allons par la suite amélioré et adapté à notre besoin, puis s’est suivie la mise en œuvre d'un service Kubernetes.
+Ce projet a était fait par : Boutajar Manal et Hamadouche Mebarek 
