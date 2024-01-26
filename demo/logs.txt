@@ -1,0 +1,123 @@
+* 
+* ==> Audit <==
+* |-----------|--------------------|----------|-----------------------|---------|---------------------|---------------------|
+|  Command  |        Args        | Profile  |         User          | Version |     Start Time      |      End Time       |
+|-----------|--------------------|----------|-----------------------|---------|---------------------|---------------------|
+| dashboard |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 18 Dec 23 14:05 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 18 Dec 23 14:05 CET |                     |
+| dashboard |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 18 Dec 23 14:05 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 18 Dec 23 14:11 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 18 Dec 23 14:20 CET |                     |
+| start     | --no-vtx-check     | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 18 Dec 23 14:21 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 18 Dec 23 14:26 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 18 Dec 23 14:26 CET |                     |
+| delete    |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 18 Dec 23 14:27 CET | 18 Dec 23 14:27 CET |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 18 Dec 23 14:27 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 18 Dec 23 14:50 CET |                     |
+| pause     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 18 Dec 23 15:02 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 18 Dec 23 15:06 CET |                     |
+| addons    | enable ingress     | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 14:29 CET |                     |
+| addons    | enable ingress     | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 14:29 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 14:30 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 14:33 CET |                     |
+| addons    | enable ingress     | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 14:36 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 14:37 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 14:38 CET |                     |
+| start     | --driver=docker    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:00 CET |                     |
+| start     | --driver=docker    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:02 CET |                     |
+| start     | --driver=docker    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:09 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:09 CET |                     |
+| start     | --driver=docker    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:13 CET |                     |
+| start     | --driver=docker    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:21 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:22 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:26 CET |                     |
+| addons    | enable ingress     | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:27 CET |                     |
+| addons    | enable ingress     | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:30 CET |                     |
+| start     |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:30 CET |                     |
+| addons    | enable ingress     | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:37 CET |                     |
+| start     | --driver=docker    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:37 CET |                     |
+| start     | --driver=docker    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:38 CET |                     |
+| delete    |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:38 CET | 08 Jan 24 15:38 CET |
+| start     | --driver=docker    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:39 CET | 08 Jan 24 15:40 CET |
+| addons    | enable ingress     | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:43 CET | 08 Jan 24 15:44 CET |
+| addons    | enable ingress-dns | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:51 CET | 08 Jan 24 15:51 CET |
+| tunnel    |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:52 CET |                     |
+| tunnel    |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 15:56 CET |                     |
+| start     | --driver=docker    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:00 CET |                     |
+| tunnel    |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:01 CET |                     |
+| addons    | enable ingress-dns | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:03 CET |                     |
+| tunnel    |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:03 CET |                     |
+| stop      |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:04 CET |                     |
+| addons    | enable ingress-dns | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:05 CET |                     |
+| tunnel    |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:06 CET |                     |
+| addons    | enable ingress     | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:06 CET |                     |
+| addons    | enable ingress-dns | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:07 CET |                     |
+| start     | --driver=docker    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:10 CET |                     |
+| start     | --driver=docker    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:10 CET |                     |
+| tunnel    |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:13 CET |                     |
+| tunnel    |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:30 CET |                     |
+| tunnel    |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:32 CET |                     |
+| delete    |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:33 CET |                     |
+| start     | --driver=docker    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:35 CET |                     |
+| addons    | enable ingress-dns | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:35 CET |                     |
+| tunnel    |                    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:36 CET |                     |
+| start     | --driver=docker    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:38 CET |                     |
+| start     | --driver=docker    | minikube | DESKTOP-6UG07V1\manal | v1.32.0 | 08 Jan 24 16:39 CET |                     |
+|-----------|--------------------|----------|-----------------------|---------|---------------------|---------------------|
+
+* 
+* ==> Last Start <==
+* Log file created at: 2024/01/08 16:39:32
+Running on machine: DESKTOP-6UG07V1
+Binary: Built with gc go1.21.3 for windows/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0108 16:39:32.110230   40424 out.go:296] Setting OutFile to fd 88 ...
+I0108 16:39:32.201163   40424 out.go:348] isatty.IsTerminal(88) = true
+I0108 16:39:32.201163   40424 out.go:309] Setting ErrFile to fd 92...
+I0108 16:39:32.201163   40424 out.go:348] isatty.IsTerminal(92) = true
+I0108 16:39:32.237728   40424 out.go:303] Setting JSON to false
+I0108 16:39:32.245755   40424 start.go:128] hostinfo: {"hostname":"DESKTOP-6UG07V1","uptime":4935,"bootTime":1704723436,"procs":367,"os":"windows","platform":"Microsoft Windows 10 Home","platformFamily":"Standalone Workstation","platformVersion":"10.0.19045.3803 Build 19045.3803","kernelVersion":"10.0.19045.3803 Build 19045.3803","kernelArch":"x86_64","virtualizationSystem":"","virtualizationRole":"","hostId":"16b6eff8-b0ff-41b3-878d-916c34ecccb9"}
+W0108 16:39:32.245755   40424 start.go:136] gopshost.Virtualization returned error: not implemented yet
+I0108 16:39:32.246665   40424 out.go:177] 😄  minikube v1.32.0 on Microsoft Windows 10 Home 10.0.19045.3803 Build 19045.3803
+I0108 16:39:32.247662   40424 notify.go:220] Checking for updates...
+I0108 16:39:32.249662   40424 config.go:182] Loaded profile config "minikube": Driver=docker, ContainerRuntime=docker, KubernetesVersion=v1.28.3
+I0108 16:39:32.250665   40424 driver.go:378] Setting default libvirt URI to qemu:///system
+W0108 16:39:38.335713   40424 docker.go:169] docker version returned error: deadline exceeded running "docker version --format {{.Server.Os}}-{{.Server.Version}}:{{.Server.Platform.Name}}": exit status 1
+I0108 16:39:38.336588   40424 out.go:177] ✨  Using the docker driver based on existing profile
+I0108 16:39:38.338219   40424 start.go:298] selected driver: docker
+I0108 16:39:38.338219   40424 start.go:902] validating driver "docker" against &{Name:minikube KeepContext:false EmbedCerts:false MinikubeISO: KicBaseImage:gcr.io/k8s-minikube/kicbase:v0.0.42@sha256:d35ac07dfda971cabee05e0deca8aeac772f885a5348e1a0c0b0a36db20fcfc0 Memory:2200 CPUs:2 DiskSize:20000 VMDriver: Driver:docker HyperkitVpnKitSock: HyperkitVSockPorts:[] DockerEnv:[] ContainerVolumeMounts:[] InsecureRegistry:[] RegistryMirror:[] HostOnlyCIDR:192.168.59.1/24 HypervVirtualSwitch: HypervUseExternalSwitch:false HypervExternalAdapter: KVMNetwork:default KVMQemuURI:qemu:///system KVMGPU:false KVMHidden:false KVMNUMACount:1 APIServerPort:0 DockerOpt:[] DisableDriverMounts:false NFSShare:[] NFSSharesRoot:/nfsshares UUID: NoVTXCheck:false DNSProxy:false HostDNSResolver:true HostOnlyNicType:virtio NatNicType:virtio SSHIPAddress: SSHUser:root SSHKey: SSHPort:22 KubernetesConfig:{KubernetesVersion:v1.28.3 ClusterName:minikube Namespace:default APIServerName:minikubeCA APIServerNames:[] APIServerIPs:[] DNSDomain:cluster.local ContainerRuntime:docker CRISocket: NetworkPlugin:cni FeatureGates: ServiceCIDR:10.96.0.0/12 ImageRepository: LoadBalancerStartIP: LoadBalancerEndIP: CustomIngressCert: RegistryAliases: ExtraOptions:[] ShouldLoadCachedImages:true EnableDefaultCNI:false CNI: NodeIP: NodePort:8443 NodeName:} Nodes:[{Name: IP:192.168.49.2 Port:8443 KubernetesVersion:v1.28.3 ContainerRuntime:docker ControlPlane:true Worker:true}] Addons:map[default-storageclass:true ingress:true ingress-dns:true storage-provisioner:true] CustomAddonImages:map[] CustomAddonRegistries:map[] VerifyComponents:map[apiserver:true system_pods:true] StartHostTimeout:6m0s ScheduledStop:<nil> ExposedPorts:[] ListenAddress: Network: Subnet: MultiNodeRequested:false ExtraDisks:0 CertExpiration:26280h0m0s Mount:false MountString:C:\Users\manal:/minikube-host Mount9PVersion:9p2000.L MountGID:docker MountIP: MountMSize:262144 MountOptions:[] MountPort:0 MountType:9p MountUID:docker BinaryMirror: DisableOptimizations:false DisableMetrics:false CustomQemuFirmwarePath: SocketVMnetClientPath: SocketVMnetPath: StaticIP: SSHAuthSock: SSHAgentPID:0 AutoPauseInterval:1m0s GPUs:}
+I0108 16:39:38.338219   40424 start.go:913] status for docker: {Installed:true Healthy:false Running:false NeedsImprovement:false Error:exit status 1
+deadline exceeded running "docker version --format {{.Server.Os}}-{{.Server.Version}}:{{.Server.Platform.Name}}"
+k8s.io/minikube/pkg/minikube/registry/drvs/docker.glob..func1
+	/app/pkg/minikube/registry/drvs/docker/docker.go:165
+k8s.io/minikube/pkg/minikube/registry/drvs/docker.status
+	/app/pkg/minikube/registry/drvs/docker/docker.go:98
+k8s.io/minikube/pkg/minikube/registry.Status
+	/app/pkg/minikube/registry/global.go:145
+k8s.io/minikube/pkg/minikube/driver.Status
+	/app/pkg/minikube/driver/driver.go:361
+k8s.io/minikube/cmd/minikube/cmd.selectDriver
+	/app/cmd/minikube/cmd/start.go:692
+k8s.io/minikube/cmd/minikube/cmd.runStart
+	/app/cmd/minikube/cmd/start.go:207
+github.com/spf13/cobra.(*Command).execute
+	/go/pkg/mod/github.com/spf13/cobra@v1.7.0/command.go:944
+github.com/spf13/cobra.(*Command).ExecuteC
+	/go/pkg/mod/github.com/spf13/cobra@v1.7.0/command.go:1068
+github.com/spf13/cobra.(*Command).Execute
+	/go/pkg/mod/github.com/spf13/cobra@v1.7.0/command.go:992
+k8s.io/minikube/cmd/minikube/cmd.Execute
+	/app/cmd/minikube/cmd/root.go:174
+main.main
+	/app/cmd/minikube/main.go:95
+runtime.main
+	/usr/local/go/src/runtime/proc.go:267
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1650 Reason:PROVIDER_DOCKER_DEADLINE_EXCEEDED Fix:Restart the Docker service Doc:https://minikube.sigs.k8s.io/docs/drivers/docker/ Version:}
+I0108 16:39:38.339304   40424 out.go:177] 
+W0108 16:39:38.340432   40424 out.go:239] 💣  Exiting due to PROVIDER_DOCKER_NOT_RUNNING: deadline exceeded running "docker version --format <no value>-<no value>:<no value>": exit status 1
+W0108 16:39:38.341114   40424 out.go:239] 💡  Suggestion: Restart the Docker service
+W0108 16:39:38.341820   40424 out.go:239] 📘  Documentation: https://minikube.sigs.k8s.io/docs/drivers/docker/
+I0108 16:39:38.343030   40424 out.go:177] 
+
+* 

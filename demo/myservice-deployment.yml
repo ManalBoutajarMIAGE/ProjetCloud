@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: rentcar
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: rentcar
+  template:
+    metadata:
+      labels:
+        app: rentcar
+    spec:
+      containers:
+        - image: manalbj/rentcar3:1
+          imagePullPolicy: IfNotPresent
+          name: rentcar
+      restartPolicy: Always
